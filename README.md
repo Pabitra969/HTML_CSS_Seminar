@@ -1,5 +1,5 @@
 # HTML_CSS_Seminar - Portfolio Website Design
-# VideoLink - https://drive.google.com/file/d/1xOzXar5fgOVCkt7mgw8n15y8m1wb6hwj/view?usp=share_link
+## VideoLink - https://drive.google.com/file/d/1tCQv_ZVvwbihby9g0KMH3hvpSyKyWYg2/view?usp=share_link
 
 ## Overview
 
