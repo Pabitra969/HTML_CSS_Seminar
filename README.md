@@ -1,8 +1,5 @@
-Here’s the updated `README.md` for your **HTML_CSS_Seminar** project, focusing only on HTML and CSS:
-
----
-
 # HTML_CSS_Seminar - Portfolio Website Design
+# VideoLink - https://drive.google.com/file/d/1xOzXar5fgOVCkt7mgw8n15y8m1wb6hwj/view?usp=share_link
 
 ## Overview
 
